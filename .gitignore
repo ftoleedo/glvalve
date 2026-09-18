@@ -1,0 +1,8 @@
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# notas internas de sessao — nao publicar
+00-status.md
+DIFICULDADES.md
